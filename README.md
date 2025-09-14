@@ -9,3 +9,9 @@ This repo includes a project to practice data cleaning with python pandas. The p
 This repo includes a practice of the `groupby` function from python pandas using the seaborn datasets. The project could be coded along following this link:
 
 [The Complete Guide to Python Pandas Groupby](https://www.youtube.com/watch?v=L5kf4sQnVhI)
+
+<hr>
+
+This repo includes a practice of sorting data using python pandas. The project could be coded along following this link:
+
+[How to Sort Data in Python Pandas](https://www.youtube.com/watch?v=VcwxUet5a3k)
