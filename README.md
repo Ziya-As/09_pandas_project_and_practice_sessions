@@ -21,3 +21,8 @@ The project could be coded along following this link:
 
 The project could be coded along following this link:  
 [How to Sort Data in Python Pandas](https://www.youtube.com/watch?v=VcwxUet5a3k)
+
+- Pandas `replace`.
+
+The project could be coded along following this link:  
+[Clean Your Data FAST with Pandas replace()](https://www.youtube.com/watch?v=uMuyRonKMk4)
